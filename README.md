@@ -24,7 +24,11 @@
     <p>c. Connect the output of the visualization operator(s) to the input of the "Write Excel" operator.
     <p>d. Configure the file path and other settings for the Excel export.
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
-
 ### Output:
 
+![web1](https://github.com/user-attachments/assets/86125a9f-2543-4397-bd85-ff6b37c92932)
+
+![web2](https://github.com/user-attachments/assets/95b47a9e-9523-4279-b84d-556709113aa1)
+
 ### Result:
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
